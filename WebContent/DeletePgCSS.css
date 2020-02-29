@@ -1,0 +1,116 @@
+@CHARSET "ISO-8859-1";
+
+#headd
+{
+
+}
+
+#bodyy
+{
+	
+}
+
+#transaction_container
+{
+	
+}
+
+
+#transaction_head
+{
+	display:					inline-block;
+}
+
+#filter_button
+{
+	display:					inline-block;
+	float:						right;
+}
+
+#main_transaction_list_container
+{
+	
+}
+
+#transaction_table #datess
+{
+	background-color:			rgb(240, 232, 242);		
+	font-size:					100%;
+}
+
+
+
+#transaction_table #description
+{
+	background-color:			rgb(255, 240, 232);		
+	font-size:					100%;
+}
+#transaction_table #income
+{
+	background-color:			rgb(237, 239, 248);
+	font-size:					100%;
+}
+#transaction_table #outgoing
+{
+	background-color:			rgb(248, 241, 230);
+	font-size:					100%;
+}
+
+#transaction_table td
+{
+	border-bottom: 				1px dashed rgb(202, 202, 202);
+	border-right: 				1px dashed rgb(202, 202, 202);
+}
+
+.col1
+{
+	border-bottom: 				1px dashed rgb(202, 202, 202);
+	border-right: 				1px dashed rgb(202, 202, 202);
+	background-color:			rgb(240, 232, 242);	
+}
+
+.col2
+{
+	border-bottom: 				1px dashed rgb(202, 202, 202);
+	border-right: 				1px dashed rgb(202, 202, 202);
+	background-color:			rgb(255, 240, 232);	
+}
+
+.col3
+{
+	border-bottom: 				1px dashed rgb(202, 202, 202);
+	border-right: 				1px dashed rgb(202, 202, 202);
+	background-color:			rgb(237, 239, 248);
+}
+
+.col4
+{
+	border-bottom: 				1px dashed rgb(202, 202, 202);
+	border-right: 				1px dashed rgb(202, 202, 202);
+	background-color:			rgb(248, 241, 230);	
+}
+
+#contrascition_inner_container
+{
+	text-align:					center;
+}
+#transaction_date
+{
+	text-align:					center;
+}
+#contrascition_inner_container
+{
+	width:						80%;
+}
+
+#main_transaction_list_container
+{
+	width:						60%;
+	margin-left:				20%;
+	margin-right:				20%;
+}
+
+
+
+
+
